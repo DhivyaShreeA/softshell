@@ -3,7 +3,7 @@
 A responsive one-page marketing site built using React and Tailwind CSS for the Credex Internship Assignment.
 
 ## 🔗 Live Demo
-[https://softsell.vercel.app](https://softsell.vercel.app)
+[[https://softsell.vercel.app](https://softsell.vercel.app)](https://softshell-git-main-dhivya-shree-as-projects.vercel.app)
 
 ## 🧰 Tech Stack
 - React.js
